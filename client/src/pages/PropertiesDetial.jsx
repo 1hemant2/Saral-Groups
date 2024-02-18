@@ -7,8 +7,7 @@ import Button2 from '../component/Button2';
 import BoxOffer from '../component/BoxOffer';
 const PropertiesDetial = () => {
     const param = useParams();
-    const id = parseInt(param, 10);
-    console.log(param);
+    console.log(param.id)
     const property = data.properties;
     console.log(property);
     return (
@@ -19,7 +18,7 @@ const PropertiesDetial = () => {
             <div>
                 {
                     property.map((d) => (
-                        d.id === id ?
+                        d.id === param.id ?
                             <div>
                                 <img src={d.image_url} alt="" />
                                 <div>{d.name}</div>

@@ -2,6 +2,7 @@ import React from 'react'
 import imag1a from '../assets/image1a.webp';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import Button from './Button';
 
 
 const ProtectedPage = () => {
@@ -12,6 +13,10 @@ const ProtectedPage = () => {
     }
     const handleClick = (value) => {
         navigate(value);
+    }
+    const handleClickLap = () => {
+        console.log('hi')
+        navigate("/properties")
     }
     return (
         <div>
@@ -42,7 +47,22 @@ const ProtectedPage = () => {
                     </div>
                 </div>
             </div>
+            {/* ---------------------------------------------------------------------- */}
+            <div className="hidden sm:flex">
+                <div className="grid grid-cols-4">
+                    <div className=""><img src={imag1a} alt="" className='w-24 h-24' /></div>
+                    <div className='w-96'>
 
+                    </div>
+                    <div className='w-5'></div>
+
+                    <div className="flex flex-row items-center">
+                        <Button text="Get in touch!" ></Button>
+                        <p className="text-white ml-7"><i className="ri-phone-fill text-white text-2xl"></i></p>
+                        <p className="text-white ml-7"><i className="ri-whatsapp-line text-white text-2xl"></i> </p>
+                    </div>
+                </div>
+            </div>
         </div>
     )
 }
