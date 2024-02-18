@@ -1,0 +1,53 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "image_url": "https://asset.cloudinary.com/dsqkqk8tz/7c249f9f3c9102e2c2c23874a03b4abc",
+            "about": "A beautiful apartment with a scenic view. Enjoy the comfort of modern amenities and stylish decor. Conveniently located near shopping and dining.",
+            "name": "Cozy Corner Apartment",
+            "rent": 1200
+        },
+        {
+            "id": 2,
+            "image_url": "https://unsplash.com/photos/white-and-grey-concrete-building-near-swimming-pool-under-clear-sky-during-daytime-2d4lAQAlbDA",
+            "about": "Spacious house with a large backyard. Perfect for families seeking a peaceful neighborhood and proximity to schools and parks.",
+            "name": "Green Valley House",
+            "rent": 2000
+        },
+        {
+            "id": 3,
+            "image_url": "https://unsplash.com/photos/brown-and-red-house-near-trees-bjej8BY1JYQ",
+            "about": "Modern condominium in the city center. Experience urban living with easy access to entertainment, public transportation, and cultural attractions.",
+            "name": "Cityscape Condo",
+            "rent": 1800
+        },
+        {
+            "id": 4,
+            "image_url": "https://unsplash.com/photos/white-concrete-house-near-green-tree-during-daytime-4ojhpgKpS68",
+            "about": "Charming townhouse with vintage appeal. Featuring unique architectural details and a cozy atmosphere. Close to shops and cafes.",
+            "name": "Vintage Townhouse",
+            "rent": 1500
+        },
+        {
+            "id": 5,
+            "image_url": "https://unsplash.com/photos/a-house-with-a-blue-front-door-and-a-brown-front-door-xaqsFfoEq3o",
+            "about": "Luxurious penthouse with panoramic city views. Indulge in upscale living with high-end finishes and a private rooftop terrace.",
+            "name": "Skyline Penthouse",
+            "rent": 2500
+        },
+        {
+            "id": 6,
+            "image_url": "https://unsplash.com/photos/landscape-photo-of-2-storey-house-yFV39g6AZ5o",
+            "about": "Rustic cottage surrounded by nature. Escape the hustle and bustle in this cozy retreat, offering tranquility and beautiful landscapes.",
+            "name": "Nature Retreat Cottage",
+            "rent": 800
+        },
+        {
+            "id": 7,
+            "image_url": "https://unsplash.com/photos/white-sofa-chair-near-fireplace-H-1j_s0dhCw",
+            "about": "Contemporary loft with industrial chic design. Ideal for those seeking a trendy urban lifestyle with proximity to art galleries and nightlife.",
+            "name": "Urban Loft Oasis",
+            "rent": 2200
+        }
+    ]
+}
