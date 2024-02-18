@@ -7,7 +7,6 @@ import PropertiesBox from '../component/PropertiesBox';
 
 const Properties = () => {
     const properties = data.properties;
-
     return (
         <div>
             <div className="sm:hidden">

@@ -2,49 +2,49 @@
     "properties": [
         {
             "id": 1,
-            "image_url": "https://asset.cloudinary.com/dsqkqk8tz/7c249f9f3c9102e2c2c23874a03b4abc",
+            "image_url": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?w=1380&t=st=1708283563~exp=1708284163~hmac=d53eb34fc8148a50ae2dfe18283cdaf5187860a13790010c2118f93d4ff4e6c5",
             "about": "A beautiful apartment with a scenic view. Enjoy the comfort of modern amenities and stylish decor. Conveniently located near shopping and dining.",
             "name": "Cozy Corner Apartment",
             "rent": 1200
         },
         {
             "id": 2,
-            "image_url": "https://unsplash.com/photos/white-and-grey-concrete-building-near-swimming-pool-under-clear-sky-during-daytime-2d4lAQAlbDA",
+            "image_url": "https://img.freepik.com/free-photo/3d-rendering-house-model_23-2150799695.jpg?t=st=1708290983~exp=1708294583~hmac=266a4fae189c00545d2e8851f72548d58238ef6f41381c07dc896e0754462d67&w=1380",
             "about": "Spacious house with a large backyard. Perfect for families seeking a peaceful neighborhood and proximity to schools and parks.",
             "name": "Green Valley House",
             "rent": 2000
         },
         {
             "id": 3,
-            "image_url": "https://unsplash.com/photos/brown-and-red-house-near-trees-bjej8BY1JYQ",
+            "image_url": "https://img.freepik.com/free-photo/3d-rendering-loft-luxury-living-room-with-bookshelf-near-bookshelf_105762-2224.jpg?w=1060&t=st=1708290588~exp=1708291188~hmac=dda26eb26049a9e6ec14f33392b877ceb87b52422c479a2307004f0f0d9e5f6a",
             "about": "Modern condominium in the city center. Experience urban living with easy access to entertainment, public transportation, and cultural attractions.",
             "name": "Cityscape Condo",
             "rent": 1800
         },
         {
             "id": 4,
-            "image_url": "https://unsplash.com/photos/white-concrete-house-near-green-tree-during-daytime-4ojhpgKpS68",
+            "image_url": "https://img.freepik.com/free-photo/3d-house-model-with-modern-architecture_23-2151004067.jpg?t=st=1708277987~exp=1708281587~hmac=afd29146e9cddfc2c81ba28215652a720a3c1b92941865aff9334c50d6369fa5&w=1060",
             "about": "Charming townhouse with vintage appeal. Featuring unique architectural details and a cozy atmosphere. Close to shops and cafes.",
             "name": "Vintage Townhouse",
             "rent": 1500
         },
         {
             "id": 5,
-            "image_url": "https://unsplash.com/photos/a-house-with-a-blue-front-door-and-a-brown-front-door-xaqsFfoEq3o",
+            "image_url": "https://img.freepik.com/premium-photo/modern-residential-building_1001743-6893.jpg?w=1380",
             "about": "Luxurious penthouse with panoramic city views. Indulge in upscale living with high-end finishes and a private rooftop terrace.",
             "name": "Skyline Penthouse",
             "rent": 2500
         },
         {
             "id": 6,
-            "image_url": "https://unsplash.com/photos/landscape-photo-of-2-storey-house-yFV39g6AZ5o",
+            "image_url": "https://img.freepik.com/free-photo/3d-rendering-house-model_23-2150799695.jpg?t=st=1708290681~exp=1708294281~hmac=9bc77b27ae97886ea89d6347e6a92beb8454386a29b7d52701c17172d02699cd&w=1380",
             "about": "Rustic cottage surrounded by nature. Escape the hustle and bustle in this cozy retreat, offering tranquility and beautiful landscapes.",
             "name": "Nature Retreat Cottage",
             "rent": 800
         },
         {
             "id": 7,
-            "image_url": "https://unsplash.com/photos/white-sofa-chair-near-fireplace-H-1j_s0dhCw",
+            "image_url": "https://img.freepik.com/free-photo/3d-rendering-house-model_23-2150799723.jpg?t=st=1708273969~exp=1708277569~hmac=8bcbd13f698186b55208004be62a91c34a71977b3611c21de5ae780f02278ca5&w=740",
             "about": "Contemporary loft with industrial chic design. Ideal for those seeking a trendy urban lifestyle with proximity to art galleries and nightlife.",
             "name": "Urban Loft Oasis",
             "rent": 2200

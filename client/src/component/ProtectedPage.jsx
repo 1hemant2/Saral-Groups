@@ -18,11 +18,14 @@ const ProtectedPage = () => {
         console.log('hi')
         navigate("/properties")
     }
+    const handleClickC = () => {
+        navigate("/contact");
+    }
     return (
         <div>
             <div className="sm:hidden">
                 <div className="flex flex-row">
-                    <div className=""><img src={imag1a} alt="" className='w-20 h-20' /></div>
+                    <div className="cursor-pointer"><img src={imag1a} alt="" className='w-20 h-20' onClick={() => navigate("/")} /></div>
                     <div className=''>
                         {
                             menu ?
@@ -50,14 +53,14 @@ const ProtectedPage = () => {
             {/* ---------------------------------------------------------------------- */}
             <div className="hidden sm:flex">
                 <div className="grid grid-cols-4">
-                    <div className=""><img src={imag1a} alt="" className='w-24 h-24' /></div>
+                    <div className="cursor-pointer"><img src={imag1a} alt="" className='w-24 h-24' onClick={() => navigate("/")} /></div>
                     <div className='w-96'>
 
                     </div>
                     <div className='w-5'></div>
 
                     <div className="flex flex-row items-center">
-                        <Button text="Get in touch!" ></Button>
+                        <Button text="Get in touch!" onClick={handleClickC}></Button>
                         <p className="text-white ml-7"><i className="ri-phone-fill text-white text-2xl"></i></p>
                         <p className="text-white ml-7"><i className="ri-whatsapp-line text-white text-2xl"></i> </p>
                     </div>
