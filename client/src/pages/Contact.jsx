@@ -13,7 +13,7 @@ const Contact = () => {
                     <input type="text" placeholder='email' />
                     <input type="text" placeholder='location' />
                     <input type="text" placeholder='Budget' />
-                    <input type="text" placeholder='Pet' />
+                    <input type="text" placeholder='Pets' />
                     <input type="text" placeholder='country' />
                     <Button text={"Submit"}></Button>
                 </form>
